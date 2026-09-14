@@ -1,0 +1,48 @@
+[project]
+name = "facility-security-risk-analytics-backend"
+version = "0.1.0"
+description = "FastAPI backend: weighted physical-security risk scoring and what-if analysis over synthetic facility data."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.32",
+    "pydantic-settings>=2.6",
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "scikit-learn>=1.5",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.8",
+    "pytest>=8.3",
+    "httpx>=0.28",
+    "matplotlib>=3.9",
+    "seaborn>=0.13",
+    "jupyterlab>=4.2",
+    "shap>=0.46",
+]
+
+[tool.uv]
+package = false
+# This machine sits behind a TLS-inspecting proxy; use the OS trust store so
+# `uv sync` works without passing --system-certs every time. Harmless on CI.
+system-certs = true
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "W"]
+
+[tool.ruff.lint.flake8-bugbear]
+# FastAPI's Query()/Depends()/Path() in argument defaults is the idiomatic
+# pattern (that's how FastAPI discovers request parameters), not the
+# mutable-default footgun B008 exists to catch.
+extend-immutable-calls = ["fastapi.Query", "fastapi.Depends", "fastapi.Path"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

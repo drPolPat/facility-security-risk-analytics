@@ -1,0 +1,21 @@
+# The Docker build context is the repo root; keep it small.
+.git
+.claude
+**/.venv
+**/node_modules
+**/__pycache__
+**/.pytest_cache
+**/.ruff_cache
+frontend
+notebooks
+*.md
+!backend/README.md
+
+# data/ and models/ are excluded except the two committed artifacts the
+# image actually needs (Dockerfile COPYs them explicitly).
+data/raw
+data/processed/*
+!data/processed/facilities.csv
+models/*
+!models/incident_likelihood_model.joblib
+!models/shap_summary.json

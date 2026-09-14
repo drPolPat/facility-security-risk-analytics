@@ -1,0 +1,13 @@
+# Normalise line endings: LF in the repo, checked out as-is per platform.
+* text=auto eol=lf
+
+# Lockfiles — treat as text, keep LF.
+uv.lock            text eol=lf
+package-lock.json  text eol=lf
+
+# Binary types (no diff/merge, no eol conversion, no CRLF corruption risk).
+*.joblib binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.ico    binary

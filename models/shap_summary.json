@@ -1,0 +1,54 @@
+{
+  "model": "gbm",
+  "n_samples": 300,
+  "features": [
+    {
+      "feature": "existing_countermeasures",
+      "mean_abs_shap": 4.624
+    },
+    {
+      "feature": "threat_exposure",
+      "mean_abs_shap": 2.724
+    },
+    {
+      "feature": "asset_criticality",
+      "mean_abs_shap": 1.452
+    },
+    {
+      "feature": "public_accessibility",
+      "mean_abs_shap": 1.221
+    },
+    {
+      "feature": "perimeter_vulnerability",
+      "mean_abs_shap": 0.846
+    },
+    {
+      "feature": "site_complexity",
+      "mean_abs_shap": 0.494
+    },
+    {
+      "feature": "cameras",
+      "mean_abs_shap": 0.015
+    },
+    {
+      "feature": "access_control",
+      "mean_abs_shap": 0.003
+    },
+    {
+      "feature": "guards",
+      "mean_abs_shap": 0.0
+    },
+    {
+      "feature": "lighting",
+      "mean_abs_shap": 0.0
+    },
+    {
+      "feature": "fencing",
+      "mean_abs_shap": 0.0
+    },
+    {
+      "feature": "response_readiness",
+      "mean_abs_shap": 0.0
+    }
+  ]
+}

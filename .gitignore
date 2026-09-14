@@ -1,0 +1,49 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.coverage
+htmlcov/
+
+# --- Node ---
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+
+# --- Environment ---
+.env
+.env.*
+!.env.example
+
+# --- Data: the generated dataset itself is committed (small, fully
+# synthetic, ~n=300 rows) so deployment doesn't depend on re-running the
+# generator; everything else here is a build byproduct. ---
+data/raw/
+data/interim/
+data/processed/*
+!data/processed/facilities.csv
+data/*.csv
+data/*.parquet
+
+# --- Models: only the small serving artifacts are committed, for the same
+# deploy-without-retraining reason as the dataset above. ---
+models/*
+!models/README.md
+!models/incident_likelihood_model.joblib
+!models/shap_summary.json
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/settings.local.json

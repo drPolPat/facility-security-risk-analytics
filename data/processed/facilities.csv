@@ -1,0 +1,301 @@
+facility_id,archetype,archetype_label,asset_criticality,public_accessibility,perimeter_vulnerability,threat_exposure,existing_countermeasures,site_complexity,response_readiness,risk_score,cameras,access_control,guards,lighting,fencing,incident_likelihood
+F001,cultural_heritage_site,Cultural / Heritage Site,4.35,4.08,4.25,3.66,1.23,2.72,2.88,75.96,False,False,False,False,False,64.64
+F002,cultural_heritage_site,Cultural / Heritage Site,4.76,4.69,3.28,3.26,1.93,4.03,2.77,74.8,False,False,False,False,False,55.89
+F003,cultural_heritage_site,Cultural / Heritage Site,4.47,4.65,4.05,3.3,4.1,3.26,2.49,63.11,True,True,True,True,True,36.12
+F004,cultural_heritage_site,Cultural / Heritage Site,4.53,4.8,4.13,2.53,2.76,3.57,2.93,69.41,False,True,True,True,False,51.76
+F005,cultural_heritage_site,Cultural / Heritage Site,3.47,4.37,3.52,2.55,2.41,4.4,2.28,63.3,False,False,False,False,False,48.87
+F006,cultural_heritage_site,Cultural / Heritage Site,4.6,4.36,3.52,3.6,2.47,2.73,2.12,68.17,True,True,False,False,False,53.55
+F007,cultural_heritage_site,Cultural / Heritage Site,4.51,4.38,4.07,2.54,2.35,3.27,2.08,67.79,False,True,False,True,False,51.94
+F008,cultural_heritage_site,Cultural / Heritage Site,4.15,4.33,3.75,1.82,1.59,2.71,2.2,64.45,False,False,False,False,False,47.72
+F009,cultural_heritage_site,Cultural / Heritage Site,3.73,4.42,3.23,2.76,3.19,2.46,3.06,56.71,False,True,False,False,False,39.8
+F010,cultural_heritage_site,Cultural / Heritage Site,4.21,5.0,3.66,2.28,2.73,3.63,3.62,67.03,True,True,True,False,True,39.78
+F011,cultural_heritage_site,Cultural / Heritage Site,4.01,3.95,4.18,2.84,1.57,2.89,2.99,69.3,True,False,False,False,False,40.15
+F012,cultural_heritage_site,Cultural / Heritage Site,4.33,4.17,3.55,2.57,2.5,4.14,2.89,66.7,True,False,True,False,True,48.58
+F013,cultural_heritage_site,Cultural / Heritage Site,5.0,4.55,4.39,2.65,1.77,2.92,2.36,74.86,False,False,False,True,False,57.54
+F014,cultural_heritage_site,Cultural / Heritage Site,4.12,4.48,3.41,3.31,2.28,2.76,2.03,65.64,False,False,False,False,False,58.09
+F015,cultural_heritage_site,Cultural / Heritage Site,4.31,4.34,4.46,3.3,3.68,3.61,2.07,65.14,True,True,False,True,True,52.98
+F016,cultural_heritage_site,Cultural / Heritage Site,3.65,4.14,4.19,2.72,2.6,3.4,3.0,63.94,True,True,False,True,False,40.2
+F017,cultural_heritage_site,Cultural / Heritage Site,3.59,4.15,3.6,3.64,1.67,3.52,2.51,69.25,False,False,False,False,False,53.07
+F018,cultural_heritage_site,Cultural / Heritage Site,4.09,4.6,3.91,2.24,2.66,3.64,4.31,66.95,False,False,False,True,False,47.18
+F019,cultural_heritage_site,Cultural / Heritage Site,4.8,4.21,3.41,1.5,2.49,2.86,2.48,61.0,True,False,False,False,False,50.89
+F020,cultural_heritage_site,Cultural / Heritage Site,3.56,4.06,4.9,5.0,1.78,3.28,3.0,78.2,False,False,False,False,True,68.59
+F021,cultural_heritage_site,Cultural / Heritage Site,4.13,3.95,3.66,2.81,2.76,3.17,3.08,62.7,False,False,False,True,False,39.91
+F022,cultural_heritage_site,Cultural / Heritage Site,4.36,4.46,5.0,4.1,2.87,3.04,2.13,73.56,False,True,False,True,False,59.25
+F023,cultural_heritage_site,Cultural / Heritage Site,3.64,4.31,3.96,3.04,2.4,3.44,2.65,65.53,False,False,False,True,False,50.24
+F024,cultural_heritage_site,Cultural / Heritage Site,4.01,3.8,4.0,4.21,1.53,4.02,2.6,75.74,False,False,False,False,False,76.42
+F025,cultural_heritage_site,Cultural / Heritage Site,4.79,4.68,4.85,3.31,3.18,3.32,2.84,73.05,True,False,True,False,False,52.38
+F026,cultural_heritage_site,Cultural / Heritage Site,4.79,4.8,4.89,3.51,1.5,3.46,2.1,82.22,False,False,False,False,False,66.77
+F027,cultural_heritage_site,Cultural / Heritage Site,3.59,4.23,3.99,3.81,3.03,2.13,2.98,61.96,False,False,False,False,False,49.85
+F028,cultural_heritage_site,Cultural / Heritage Site,3.41,5.0,4.02,3.59,2.2,3.99,3.44,72.61,False,False,False,True,True,56.06
+F029,cultural_heritage_site,Cultural / Heritage Site,4.39,4.9,3.16,2.91,3.64,3.05,2.31,60.4,False,True,True,False,False,45.08
+F030,cultural_heritage_site,Cultural / Heritage Site,4.48,5.0,3.68,1.6,3.72,3.23,2.86,59.0,True,False,True,True,True,38.46
+F031,cultural_heritage_site,Cultural / Heritage Site,4.46,4.61,2.95,1.38,2.64,3.22,3.08,59.53,True,False,False,False,True,37.8
+F032,cultural_heritage_site,Cultural / Heritage Site,4.47,4.22,3.69,3.14,3.17,3.26,3.11,64.97,True,True,True,False,False,36.74
+F033,cultural_heritage_site,Cultural / Heritage Site,3.03,4.23,4.25,2.8,2.74,4.15,3.6,63.62,True,True,True,True,False,45.48
+F034,cultural_heritage_site,Cultural / Heritage Site,3.78,4.26,2.91,2.38,2.35,3.98,3.83,62.7,False,True,False,True,False,32.56
+F035,cultural_heritage_site,Cultural / Heritage Site,4.66,4.26,3.48,2.25,2.14,3.76,2.69,67.83,False,True,False,True,False,53.49
+F036,cultural_heritage_site,Cultural / Heritage Site,4.03,4.95,4.03,2.91,2.84,4.67,4.05,72.28,True,True,False,True,False,51.1
+F037,cultural_heritage_site,Cultural / Heritage Site,4.36,4.17,2.85,1.55,1.82,3.22,2.62,61.16,False,False,False,False,False,37.39
+F038,cultural_heritage_site,Cultural / Heritage Site,4.29,4.75,3.6,3.74,1.8,3.5,4.36,76.99,False,False,False,False,False,61.75
+F039,cultural_heritage_site,Cultural / Heritage Site,3.81,4.67,3.29,3.47,3.36,3.72,2.63,62.7,True,True,True,False,True,32.29
+F040,cultural_heritage_site,Cultural / Heritage Site,3.45,5.0,4.34,2.5,1.55,1.72,2.47,66.29,False,False,False,False,False,47.0
+F041,cultural_heritage_site,Cultural / Heritage Site,4.25,4.47,4.27,3.24,3.07,3.09,3.34,67.73,False,False,False,False,True,56.75
+F042,cultural_heritage_site,Cultural / Heritage Site,3.98,5.0,3.88,3.18,3.7,3.28,2.24,62.62,False,True,True,True,True,48.94
+F043,cultural_heritage_site,Cultural / Heritage Site,3.0,4.19,2.79,2.42,2.77,3.39,2.65,53.19,False,True,False,False,True,38.15
+F044,cultural_heritage_site,Cultural / Heritage Site,4.48,4.62,5.0,2.94,2.39,3.05,2.18,72.9,True,False,False,True,False,55.35
+F045,cultural_heritage_site,Cultural / Heritage Site,4.23,4.19,4.34,3.52,2.49,3.11,3.13,70.58,True,False,True,True,False,55.02
+F046,cultural_heritage_site,Cultural / Heritage Site,3.47,5.0,4.55,2.82,2.85,2.05,2.11,62.25,False,False,True,False,False,38.64
+F047,cultural_heritage_site,Cultural / Heritage Site,4.32,5.0,3.07,3.17,3.87,2.51,2.03,58.21,False,True,False,True,False,41.3
+F048,cultural_heritage_site,Cultural / Heritage Site,3.91,5.0,3.42,2.55,2.98,3.96,3.07,64.53,True,True,True,False,False,46.62
+F049,cultural_heritage_site,Cultural / Heritage Site,3.8,3.99,4.23,3.17,2.17,4.37,2.54,69.96,True,False,False,True,False,50.65
+F050,cultural_heritage_site,Cultural / Heritage Site,4.88,4.08,2.35,4.13,4.38,3.26,1.64,57.3,True,True,False,True,True,39.8
+F051,cultural_heritage_site,Cultural / Heritage Site,3.45,4.78,5.0,3.12,2.36,3.41,3.17,71.31,False,False,False,True,False,64.23
+F052,cultural_heritage_site,Cultural / Heritage Site,4.11,5.0,3.14,3.41,2.82,2.98,2.91,65.85,True,False,False,False,False,46.55
+F053,cultural_heritage_site,Cultural / Heritage Site,4.16,3.82,2.83,3.34,2.23,1.96,3.27,61.1,False,False,False,True,True,61.63
+F054,cultural_heritage_site,Cultural / Heritage Site,4.41,4.66,3.7,3.57,3.04,4.25,2.49,70.33,False,False,False,True,False,60.44
+F055,cultural_heritage_site,Cultural / Heritage Site,3.97,4.33,3.99,2.83,3.27,2.15,2.3,58.56,True,True,True,True,False,46.38
+F056,cultural_heritage_site,Cultural / Heritage Site,4.08,4.09,3.77,3.73,1.92,2.95,3.14,70.56,False,False,True,True,False,57.45
+F057,cultural_heritage_site,Cultural / Heritage Site,4.09,4.01,2.86,3.48,2.35,2.89,2.74,63.16,True,True,False,False,True,50.67
+F058,cultural_heritage_site,Cultural / Heritage Site,4.58,4.04,3.13,3.31,2.64,3.83,2.69,66.94,False,True,True,True,True,36.25
+F059,cultural_heritage_site,Cultural / Heritage Site,4.7,4.98,3.19,1.7,2.67,4.06,3.88,67.16,True,False,False,True,False,37.12
+F060,cultural_heritage_site,Cultural / Heritage Site,5.0,5.0,4.48,2.36,3.2,3.88,3.07,71.94,True,True,True,True,True,37.38
+F061,cultural_heritage_site,Cultural / Heritage Site,4.24,4.28,3.03,4.18,3.81,4.32,2.95,64.72,True,True,True,False,True,45.59
+F062,cultural_heritage_site,Cultural / Heritage Site,3.55,4.48,3.75,4.26,3.23,3.51,2.95,65.9,False,False,False,True,True,42.04
+F063,cultural_heritage_site,Cultural / Heritage Site,4.46,4.66,2.73,2.91,3.3,4.14,3.42,64.05,True,False,False,True,False,51.52
+F064,cultural_heritage_site,Cultural / Heritage Site,4.75,4.45,3.05,2.78,2.75,3.38,2.45,65.06,False,False,True,False,True,47.32
+F065,cultural_heritage_site,Cultural / Heritage Site,4.34,4.04,3.51,4.01,1.79,2.23,1.68,68.77,False,False,False,False,False,60.8
+F066,cultural_heritage_site,Cultural / Heritage Site,4.98,4.05,3.57,2.47,1.97,3.3,3.66,70.71,False,True,False,True,False,50.15
+F067,cultural_heritage_site,Cultural / Heritage Site,4.27,4.65,5.0,3.6,2.1,4.08,2.58,78.96,False,True,False,True,True,64.07
+F068,cultural_heritage_site,Cultural / Heritage Site,4.41,3.73,4.2,2.31,1.59,3.46,2.85,69.71,False,False,False,False,False,49.73
+F069,cultural_heritage_site,Cultural / Heritage Site,4.34,4.1,4.23,3.04,1.28,2.32,2.79,72.22,False,False,False,False,False,50.62
+F070,cultural_heritage_site,Cultural / Heritage Site,3.61,4.06,3.97,3.87,2.3,2.0,1.78,63.4,False,False,True,True,True,57.5
+F071,cultural_heritage_site,Cultural / Heritage Site,3.86,4.16,4.09,1.93,2.87,3.56,2.71,60.41,True,False,True,False,True,39.38
+F072,cultural_heritage_site,Cultural / Heritage Site,3.66,4.2,4.04,3.39,2.16,4.09,3.49,70.7,False,False,False,True,True,52.87
+F073,cultural_heritage_site,Cultural / Heritage Site,3.77,4.55,3.46,2.88,3.92,3.4,3.05,57.4,True,True,True,False,True,46.77
+F074,cultural_heritage_site,Cultural / Heritage Site,4.35,4.74,3.11,2.94,3.26,4.02,2.93,64.62,True,False,False,True,False,46.45
+F075,cultural_heritage_site,Cultural / Heritage Site,2.73,4.65,1.61,1.79,2.92,3.79,2.1,46.34,True,True,False,False,False,30.69
+F076,commercial_retail_complex,Commercial Retail Complex,3.77,4.84,3.5,3.13,3.38,2.18,2.15,58.1,True,True,True,True,False,41.21
+F077,commercial_retail_complex,Commercial Retail Complex,3.17,4.5,3.48,3.86,3.15,2.15,2.57,58.09,False,True,True,False,False,46.87
+F078,commercial_retail_complex,Commercial Retail Complex,1.96,4.9,3.85,2.91,3.92,3.89,3.38,52.88,False,True,False,False,True,34.46
+F079,commercial_retail_complex,Commercial Retail Complex,3.29,4.78,3.64,2.95,3.78,3.0,2.5,55.81,False,False,False,True,True,45.0
+F080,commercial_retail_complex,Commercial Retail Complex,2.5,4.3,3.48,2.59,3.43,2.84,2.1,48.96,True,False,False,True,False,18.97
+F081,commercial_retail_complex,Commercial Retail Complex,2.58,4.15,4.02,3.2,4.03,3.71,2.42,52.69,False,True,True,False,False,30.32
+F082,commercial_retail_complex,Commercial Retail Complex,3.28,5.0,3.52,3.78,3.82,3.06,1.84,58.38,True,False,False,False,False,32.32
+F083,commercial_retail_complex,Commercial Retail Complex,2.68,4.83,5.0,2.37,4.28,3.09,2.55,53.66,True,True,True,True,False,39.16
+F084,commercial_retail_complex,Commercial Retail Complex,2.41,4.78,3.46,3.47,4.27,2.95,2.18,49.71,True,True,False,True,True,38.86
+F085,commercial_retail_complex,Commercial Retail Complex,4.49,4.62,4.72,3.35,3.31,3.26,2.34,69.56,False,False,True,False,True,47.37
+F086,commercial_retail_complex,Commercial Retail Complex,2.44,4.8,4.4,3.31,3.01,3.74,3.25,62.48,False,False,False,True,True,48.62
+F087,commercial_retail_complex,Commercial Retail Complex,3.11,4.47,4.35,2.39,2.92,3.78,2.8,60.94,False,False,False,False,True,41.41
+F088,commercial_retail_complex,Commercial Retail Complex,3.48,4.69,4.18,2.61,3.67,3.0,1.85,56.91,False,True,False,False,True,35.26
+F089,commercial_retail_complex,Commercial Retail Complex,1.54,4.53,3.87,2.79,4.23,2.9,3.07,44.6,True,False,False,False,True,12.61
+F090,commercial_retail_complex,Commercial Retail Complex,1.6,4.64,4.01,3.61,3.68,2.77,2.91,51.14,False,True,False,True,False,39.04
+F091,commercial_retail_complex,Commercial Retail Complex,2.87,4.8,4.74,1.73,2.55,2.29,2.08,57.19,True,False,False,False,False,47.12
+F092,commercial_retail_complex,Commercial Retail Complex,2.55,4.69,3.43,2.06,3.33,2.4,2.25,48.09,False,False,False,True,False,21.8
+F093,commercial_retail_complex,Commercial Retail Complex,3.31,4.56,4.32,3.19,2.57,2.81,2.52,64.14,True,False,False,True,False,51.99
+F094,commercial_retail_complex,Commercial Retail Complex,3.96,5.0,3.39,2.64,4.29,2.37,1.51,52.52,True,True,True,False,True,27.58
+F095,commercial_retail_complex,Commercial Retail Complex,2.27,5.0,4.15,3.73,3.11,2.89,1.87,58.66,True,True,True,False,True,51.22
+F096,commercial_retail_complex,Commercial Retail Complex,2.77,5.0,4.21,3.67,2.86,3.31,2.74,64.55,False,False,False,True,False,41.37
+F097,commercial_retail_complex,Commercial Retail Complex,2.85,4.9,3.6,3.22,3.74,3.37,3.23,56.96,False,False,True,True,True,38.32
+F098,commercial_retail_complex,Commercial Retail Complex,2.55,4.26,3.91,2.26,3.98,3.91,1.82,49.01,False,True,True,True,True,39.98
+F099,commercial_retail_complex,Commercial Retail Complex,2.51,5.0,4.05,3.68,3.13,2.97,2.23,59.85,False,False,False,False,True,52.56
+F100,commercial_retail_complex,Commercial Retail Complex,2.58,4.91,3.69,3.21,3.04,3.97,2.52,60.06,True,False,False,True,False,43.19
+F101,commercial_retail_complex,Commercial Retail Complex,2.95,4.4,3.99,4.4,3.89,3.1,2.04,58.56,False,True,False,False,False,36.8
+F102,commercial_retail_complex,Commercial Retail Complex,2.11,4.51,4.03,1.95,3.77,3.45,2.15,47.35,False,False,False,True,True,21.06
+F103,commercial_retail_complex,Commercial Retail Complex,3.28,4.6,4.2,3.54,4.5,2.88,2.53,55.54,True,False,True,True,True,24.83
+F104,commercial_retail_complex,Commercial Retail Complex,2.94,5.0,4.15,2.25,3.33,3.45,1.17,55.89,True,False,False,False,False,38.7
+F105,commercial_retail_complex,Commercial Retail Complex,3.19,5.0,3.89,2.72,3.66,3.26,1.98,56.81,False,False,True,False,True,36.28
+F106,commercial_retail_complex,Commercial Retail Complex,2.65,4.97,3.35,3.41,4.55,3.28,2.07,50.28,False,True,True,True,True,19.7
+F107,commercial_retail_complex,Commercial Retail Complex,3.32,4.69,4.19,2.52,4.2,3.75,2.88,56.33,False,False,False,False,True,36.87
+F108,commercial_retail_complex,Commercial Retail Complex,3.13,4.85,4.15,4.08,4.14,1.28,2.11,54.84,True,True,True,True,True,38.14
+F109,commercial_retail_complex,Commercial Retail Complex,2.25,4.6,4.74,2.87,3.68,1.88,3.42,52.61,True,True,False,False,True,32.26
+F110,commercial_retail_complex,Commercial Retail Complex,2.68,4.65,3.71,3.62,3.55,3.39,2.29,56.91,True,False,False,False,False,47.83
+F111,commercial_retail_complex,Commercial Retail Complex,2.29,5.0,4.5,3.78,3.42,2.87,2.17,59.04,True,True,False,False,True,47.72
+F112,commercial_retail_complex,Commercial Retail Complex,3.19,5.0,3.86,2.64,2.88,2.02,2.44,57.77,False,False,False,True,False,35.69
+F113,commercial_retail_complex,Commercial Retail Complex,3.02,4.38,4.72,3.11,3.57,4.4,3.21,63.05,False,True,True,False,False,40.3
+F114,commercial_retail_complex,Commercial Retail Complex,3.68,4.77,5.0,3.25,4.47,3.21,2.88,61.5,False,True,True,False,True,30.65
+F115,commercial_retail_complex,Commercial Retail Complex,1.98,4.37,3.12,3.27,4.08,2.99,1.0,43.57,False,True,True,False,True,37.26
+F116,commercial_retail_complex,Commercial Retail Complex,3.07,4.97,4.06,3.4,3.87,2.51,2.83,57.42,True,True,True,True,True,34.36
+F117,commercial_retail_complex,Commercial Retail Complex,2.16,4.69,3.45,3.39,2.71,3.43,1.59,56.05,False,True,False,True,False,44.93
+F118,commercial_retail_complex,Commercial Retail Complex,1.54,4.79,5.0,3.28,3.44,3.33,2.84,56.39,True,True,False,False,True,36.93
+F119,commercial_retail_complex,Commercial Retail Complex,1.64,4.42,2.63,3.06,3.29,2.75,2.95,45.23,True,True,False,True,True,32.58
+F120,commercial_retail_complex,Commercial Retail Complex,3.39,4.45,5.0,2.62,3.85,1.99,1.74,55.11,False,False,True,True,True,43.12
+F121,commercial_retail_complex,Commercial Retail Complex,2.66,4.27,3.6,3.53,3.64,2.06,1.87,50.34,False,True,False,False,True,38.89
+F122,commercial_retail_complex,Commercial Retail Complex,3.29,4.76,3.8,3.28,2.91,2.31,1.74,59.25,True,False,True,True,True,43.15
+F123,commercial_retail_complex,Commercial Retail Complex,2.67,4.9,3.99,2.33,2.64,3.02,2.92,58.43,False,True,True,False,False,35.34
+F124,commercial_retail_complex,Commercial Retail Complex,2.73,4.31,2.83,3.77,2.81,2.73,1.47,54.17,False,False,False,False,True,43.55
+F125,commercial_retail_complex,Commercial Retail Complex,2.94,5.0,3.47,3.17,4.08,3.76,1.45,54.16,True,True,True,False,False,32.19
+F126,commercial_retail_complex,Commercial Retail Complex,2.97,4.72,3.98,3.25,2.99,3.32,4.05,63.08,False,False,True,True,False,49.9
+F127,commercial_retail_complex,Commercial Retail Complex,3.51,4.86,4.57,1.79,4.35,3.23,2.95,54.64,True,True,False,True,False,38.74
+F128,commercial_retail_complex,Commercial Retail Complex,1.74,5.0,4.0,3.08,2.52,3.3,1.0,55.9,True,True,False,False,False,40.2
+F129,commercial_retail_complex,Commercial Retail Complex,2.38,4.65,4.64,3.52,3.17,2.86,1.36,57.94,False,False,False,False,False,35.18
+F130,commercial_retail_complex,Commercial Retail Complex,2.74,5.0,4.6,2.78,3.53,3.0,2.47,58.06,False,True,False,False,True,37.02
+F131,commercial_retail_complex,Commercial Retail Complex,1.83,5.0,4.18,2.76,3.23,2.1,1.68,50.12,False,False,True,True,False,35.03
+F132,commercial_retail_complex,Commercial Retail Complex,2.72,5.0,3.73,2.26,2.57,2.68,1.55,55.6,False,False,False,True,True,30.62
+F133,commercial_retail_complex,Commercial Retail Complex,2.5,4.84,2.84,3.34,4.54,2.73,2.46,46.03,True,False,False,True,True,26.34
+F134,commercial_retail_complex,Commercial Retail Complex,2.19,4.84,3.71,2.88,3.76,2.2,2.93,49.18,True,True,False,True,True,25.84
+F135,commercial_retail_complex,Commercial Retail Complex,2.48,4.82,4.02,3.15,3.38,2.87,1.43,54.43,True,True,False,True,False,37.95
+F136,commercial_retail_complex,Commercial Retail Complex,2.57,5.0,4.25,2.41,3.8,2.54,1.95,51.36,False,True,True,False,False,28.0
+F137,commercial_retail_complex,Commercial Retail Complex,2.46,5.0,4.31,4.23,4.76,2.38,2.34,53.15,True,True,False,True,True,30.76
+F138,commercial_retail_complex,Commercial Retail Complex,2.07,5.0,3.54,4.89,3.13,3.04,1.52,59.56,True,False,False,True,False,40.89
+F139,commercial_retail_complex,Commercial Retail Complex,3.68,5.0,4.05,1.74,2.81,3.41,3.03,62.12,False,False,True,True,True,39.52
+F140,commercial_retail_complex,Commercial Retail Complex,2.96,4.71,3.07,3.0,3.2,2.91,1.96,53.95,True,False,True,False,True,37.7
+F141,commercial_retail_complex,Commercial Retail Complex,1.65,4.94,4.0,3.22,3.98,1.83,1.12,44.93,True,True,True,True,False,33.9
+F142,commercial_retail_complex,Commercial Retail Complex,3.09,4.72,2.95,3.66,4.13,3.39,1.77,52.98,True,True,False,False,False,38.68
+F143,commercial_retail_complex,Commercial Retail Complex,2.83,4.46,4.21,3.55,3.45,3.13,2.14,58.22,False,True,True,True,True,31.85
+F144,commercial_retail_complex,Commercial Retail Complex,2.01,4.19,4.02,2.53,3.17,3.4,1.92,50.38,False,True,True,True,False,32.16
+F145,commercial_retail_complex,Commercial Retail Complex,3.43,4.92,3.3,3.59,2.75,3.85,2.91,65.95,False,True,True,False,False,51.1
+F146,commercial_retail_complex,Commercial Retail Complex,3.32,4.63,3.69,2.48,2.76,1.9,2.74,56.48,False,False,True,True,True,35.72
+F147,commercial_retail_complex,Commercial Retail Complex,2.86,4.2,4.13,2.56,3.52,2.06,2.63,50.97,True,True,False,True,True,29.25
+F148,commercial_retail_complex,Commercial Retail Complex,1.87,4.94,3.78,2.55,3.07,3.64,2.66,53.69,True,False,False,True,False,33.07
+F149,commercial_retail_complex,Commercial Retail Complex,3.06,4.57,4.25,3.53,1.65,3.71,1.0,68.89,False,False,False,False,True,62.59
+F150,commercial_retail_complex,Commercial Retail Complex,1.65,5.0,3.97,2.48,3.05,2.39,2.82,50.44,True,True,False,False,False,25.26
+F151,mixed_use_tower,Mixed-Use Tower,4.56,2.98,1.9,2.59,3.12,3.56,3.26,53.19,False,False,True,True,False,30.07
+F152,mixed_use_tower,Mixed-Use Tower,3.08,4.2,2.63,3.15,2.53,3.87,3.33,59.01,False,False,False,False,True,44.77
+F153,mixed_use_tower,Mixed-Use Tower,3.22,2.84,2.46,2.56,3.89,4.32,3.15,45.86,True,True,False,True,True,38.23
+F154,mixed_use_tower,Mixed-Use Tower,2.8,3.46,1.46,3.13,4.55,4.44,3.3,41.66,False,True,True,True,True,24.86
+F155,mixed_use_tower,Mixed-Use Tower,3.14,2.52,1.78,3.23,3.93,4.32,3.78,44.81,False,True,False,True,False,41.73
+F156,mixed_use_tower,Mixed-Use Tower,3.33,2.6,2.86,3.15,2.76,4.76,3.14,55.96,True,False,False,True,False,44.67
+F157,mixed_use_tower,Mixed-Use Tower,3.59,3.95,2.7,2.98,3.2,4.49,3.49,58.65,True,False,True,True,False,31.63
+F158,mixed_use_tower,Mixed-Use Tower,3.94,1.44,2.72,2.71,4.38,3.95,3.6,42.94,True,True,True,True,True,18.81
+F159,mixed_use_tower,Mixed-Use Tower,3.78,3.55,3.0,4.15,3.14,3.51,2.6,60.35,False,True,False,True,True,38.36
+F160,mixed_use_tower,Mixed-Use Tower,4.3,4.71,2.82,3.35,3.3,3.29,2.84,62.58,False,False,True,True,False,42.19
+F161,mixed_use_tower,Mixed-Use Tower,3.5,3.58,2.58,3.32,3.48,4.03,2.36,53.68,True,True,True,True,True,36.61
+F162,mixed_use_tower,Mixed-Use Tower,3.63,1.71,2.05,3.24,3.83,3.62,3.3,43.43,False,False,False,True,True,30.66
+F163,mixed_use_tower,Mixed-Use Tower,3.72,3.38,2.68,3.49,3.66,4.59,3.72,57.24,False,True,False,False,True,34.77
+F164,mixed_use_tower,Mixed-Use Tower,4.06,2.83,2.29,3.84,2.97,3.8,3.33,57.71,True,True,False,True,True,42.09
+F165,mixed_use_tower,Mixed-Use Tower,3.64,3.06,2.73,3.46,3.93,4.22,2.71,52.18,True,True,True,True,True,36.71
+F166,mixed_use_tower,Mixed-Use Tower,4.24,3.06,4.0,2.77,3.79,3.8,2.99,57.35,True,True,False,True,True,35.05
+F167,mixed_use_tower,Mixed-Use Tower,5.0,3.24,2.17,2.58,3.03,4.67,2.98,60.21,False,True,False,True,False,42.15
+F168,mixed_use_tower,Mixed-Use Tower,3.96,3.2,2.11,3.41,3.15,3.94,2.63,54.89,False,False,False,True,False,46.8
+F169,mixed_use_tower,Mixed-Use Tower,5.0,1.97,2.16,2.63,3.09,3.66,3.02,52.83,True,False,True,False,True,39.1
+F170,mixed_use_tower,Mixed-Use Tower,3.38,4.27,2.74,1.88,3.0,3.33,3.21,52.58,True,True,False,True,True,27.35
+F171,mixed_use_tower,Mixed-Use Tower,3.0,3.02,2.7,1.89,3.49,4.21,3.07,45.45,True,False,False,True,False,33.56
+F172,mixed_use_tower,Mixed-Use Tower,3.42,2.73,2.86,3.37,3.34,4.6,3.79,55.24,True,True,False,True,False,38.07
+F173,mixed_use_tower,Mixed-Use Tower,3.21,2.11,2.66,2.54,3.65,3.8,2.54,42.89,True,False,True,False,False,29.43
+F174,mixed_use_tower,Mixed-Use Tower,2.95,2.23,3.55,2.45,2.97,4.18,3.15,50.15,True,True,False,False,False,38.91
+F175,mixed_use_tower,Mixed-Use Tower,3.9,2.63,1.65,2.55,3.57,4.78,2.58,47.44,False,True,False,True,True,32.03
+F176,mixed_use_tower,Mixed-Use Tower,3.75,3.65,2.93,1.57,3.13,4.27,3.08,53.19,True,True,True,False,False,29.43
+F177,mixed_use_tower,Mixed-Use Tower,3.85,2.35,2.98,3.55,3.68,2.67,2.43,48.86,True,False,False,True,True,39.7
+F178,mixed_use_tower,Mixed-Use Tower,3.77,3.28,2.82,3.42,4.97,4.69,2.25,49.24,True,True,False,True,True,33.14
+F179,mixed_use_tower,Mixed-Use Tower,5.0,2.55,2.3,2.82,3.31,3.75,1.54,53.51,True,True,False,True,False,43.66
+F180,mixed_use_tower,Mixed-Use Tower,3.76,3.5,2.77,3.82,3.63,4.45,3.42,58.89,True,True,True,True,True,48.71
+F181,mixed_use_tower,Mixed-Use Tower,4.28,3.01,1.17,3.31,2.27,4.93,3.3,59.59,False,False,False,True,True,42.99
+F182,mixed_use_tower,Mixed-Use Tower,3.65,4.66,3.1,3.63,4.11,4.94,3.09,61.62,True,True,False,False,True,36.32
+F183,mixed_use_tower,Mixed-Use Tower,4.5,3.45,2.99,3.37,3.58,4.3,2.49,60.25,True,False,True,True,False,50.69
+F184,mixed_use_tower,Mixed-Use Tower,3.0,2.79,2.89,4.52,4.49,4.76,2.97,51.41,True,False,True,True,False,41.72
+F185,mixed_use_tower,Mixed-Use Tower,3.39,1.54,2.9,2.58,3.63,4.16,3.04,44.33,False,False,True,False,False,18.05
+F186,mixed_use_tower,Mixed-Use Tower,4.0,3.67,2.57,1.82,4.02,3.37,3.39,47.79,True,True,True,True,True,31.35
+F187,mixed_use_tower,Mixed-Use Tower,3.33,3.59,2.77,2.58,3.08,3.38,3.37,52.44,False,False,False,True,False,24.85
+F188,mixed_use_tower,Mixed-Use Tower,2.74,3.67,3.41,2.55,3.22,4.51,1.8,52.24,False,False,False,True,True,41.24
+F189,mixed_use_tower,Mixed-Use Tower,4.86,2.65,2.59,4.09,2.69,4.71,2.59,65.85,True,False,False,True,False,46.0
+F190,mixed_use_tower,Mixed-Use Tower,3.77,3.6,2.52,3.04,3.94,3.71,3.64,52.33,False,True,True,False,False,38.37
+F191,mixed_use_tower,Mixed-Use Tower,3.28,2.76,2.92,2.5,3.35,4.24,3.8,50.68,True,True,True,True,False,31.89
+F192,mixed_use_tower,Mixed-Use Tower,2.89,2.58,2.14,2.74,4.39,4.53,3.21,40.81,False,True,False,False,False,23.46
+F193,mixed_use_tower,Mixed-Use Tower,2.38,3.13,3.06,2.83,4.69,3.76,3.33,40.84,True,True,True,True,True,30.66
+F194,mixed_use_tower,Mixed-Use Tower,3.6,3.49,2.18,3.46,3.14,4.75,4.53,59.08,False,False,True,False,True,44.03
+F195,mixed_use_tower,Mixed-Use Tower,4.21,3.29,3.33,3.55,4.51,4.38,3.74,57.26,True,True,True,True,False,36.16
+F196,mixed_use_tower,Mixed-Use Tower,3.25,3.01,3.46,3.33,2.57,4.09,4.27,60.71,True,False,True,False,True,49.72
+F197,mixed_use_tower,Mixed-Use Tower,3.56,2.78,3.25,2.67,4.29,4.47,3.35,49.34,False,False,True,True,False,19.87
+F198,mixed_use_tower,Mixed-Use Tower,3.97,3.38,2.89,3.24,3.41,4.59,3.17,58.9,True,True,False,True,False,30.57
+F199,mixed_use_tower,Mixed-Use Tower,3.54,2.74,1.35,3.23,3.37,3.15,3.7,45.8,False,False,False,False,False,41.43
+F200,mixed_use_tower,Mixed-Use Tower,4.28,2.44,2.72,3.26,2.51,4.43,4.56,62.2,True,False,False,False,False,41.74
+F201,mixed_use_tower,Mixed-Use Tower,3.02,3.76,3.42,2.41,4.18,4.16,3.4,49.81,False,True,False,False,False,33.63
+F202,mixed_use_tower,Mixed-Use Tower,3.1,4.3,2.88,3.43,2.64,3.79,3.94,61.49,True,False,True,True,False,45.78
+F203,mixed_use_tower,Mixed-Use Tower,3.72,3.71,2.06,2.4,3.48,4.61,2.4,51.36,True,False,False,True,True,28.63
+F204,mixed_use_tower,Mixed-Use Tower,3.6,3.56,2.14,3.99,3.19,3.86,4.12,58.19,True,False,True,False,True,38.47
+F205,mixed_use_tower,Mixed-Use Tower,3.57,3.05,2.01,2.97,3.6,4.77,3.92,51.79,True,True,False,False,True,33.59
+F206,mixed_use_tower,Mixed-Use Tower,3.02,2.43,3.47,2.91,4.58,3.94,3.37,44.3,False,True,True,True,False,20.34
+F207,mixed_use_tower,Mixed-Use Tower,3.59,2.65,2.76,2.43,3.49,4.42,2.6,49.2,True,True,False,False,True,28.81
+F208,mixed_use_tower,Mixed-Use Tower,3.44,2.99,2.21,3.41,4.46,3.97,3.49,46.48,True,True,False,True,True,30.46
+F209,mixed_use_tower,Mixed-Use Tower,4.34,2.87,3.2,2.59,2.71,4.27,2.15,58.99,True,True,False,False,True,40.46
+F210,mixed_use_tower,Mixed-Use Tower,3.38,3.84,3.17,3.3,3.69,4.4,2.68,56.46,True,True,True,False,True,36.87
+F211,mixed_use_tower,Mixed-Use Tower,3.84,1.28,2.78,2.93,3.57,4.55,3.16,47.89,True,False,False,True,True,37.55
+F212,mixed_use_tower,Mixed-Use Tower,2.95,3.11,3.37,1.96,3.71,3.91,2.98,46.35,False,True,False,True,False,19.73
+F213,mixed_use_tower,Mixed-Use Tower,4.64,2.72,2.58,2.76,3.03,4.08,4.67,59.31,True,True,False,True,True,46.89
+F214,mixed_use_tower,Mixed-Use Tower,4.3,3.63,2.32,2.9,4.05,4.4,2.96,54.14,True,True,False,True,False,36.13
+F215,mixed_use_tower,Mixed-Use Tower,4.05,3.52,2.18,2.03,3.28,4.64,2.87,53.02,False,False,True,True,True,39.08
+F216,mixed_use_tower,Mixed-Use Tower,3.95,2.85,2.5,2.74,5.0,4.48,2.92,44.94,True,True,True,True,True,30.75
+F217,mixed_use_tower,Mixed-Use Tower,3.83,3.06,2.61,2.97,3.25,3.98,4.09,55.36,False,False,False,True,False,34.46
+F218,mixed_use_tower,Mixed-Use Tower,3.94,2.85,2.94,2.61,3.44,4.68,3.72,55.35,True,False,True,False,True,37.92
+F219,mixed_use_tower,Mixed-Use Tower,2.77,2.62,2.38,2.75,3.28,4.2,2.88,45.61,True,False,True,True,True,31.9
+F220,mixed_use_tower,Mixed-Use Tower,4.01,2.38,2.61,2.93,4.71,5.0,2.2,46.45,False,True,False,True,True,29.38
+F221,mixed_use_tower,Mixed-Use Tower,3.54,3.33,2.74,3.72,3.65,4.12,3.86,56.29,True,False,False,False,True,35.23
+F222,mixed_use_tower,Mixed-Use Tower,4.07,3.59,2.51,3.86,4.42,4.32,2.71,54.79,False,True,True,True,True,25.54
+F223,mixed_use_tower,Mixed-Use Tower,3.98,2.53,4.44,2.35,2.85,4.46,4.12,61.9,False,False,False,True,True,30.28
+F224,mixed_use_tower,Mixed-Use Tower,3.67,1.65,1.81,2.68,3.1,4.4,3.38,46.1,True,False,False,False,True,33.85
+F225,mixed_use_tower,Mixed-Use Tower,3.68,2.76,2.4,2.51,3.85,4.15,2.8,46.79,False,True,False,True,True,33.58
+F226,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.38,1.0,4.11,3.22,2.67,2.22,4.77,56.3,False,False,False,False,False,41.58
+F227,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),3.71,1.54,4.76,4.7,4.46,1.59,4.66,52.3,True,True,False,False,False,38.54
+F228,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.92,1.51,2.45,3.38,2.4,2.72,4.79,57.91,False,False,False,False,True,42.12
+F229,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.3,2.06,4.29,3.62,2.77,2.12,4.31,60.72,False,True,False,False,True,50.48
+F230,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.48,1.0,1.91,2.89,3.42,2.27,4.29,43.09,False,False,False,False,True,28.42
+F231,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),3.96,1.96,2.92,5.0,2.97,2.82,4.17,59.26,True,False,False,True,False,40.81
+F232,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.29,1.35,2.97,5.0,2.93,3.13,4.1,59.7,False,False,False,False,True,58.99
+F233,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.69,1.95,3.85,4.74,2.95,3.63,3.96,67.25,True,True,False,True,True,61.33
+F234,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.88,2.19,2.32,3.41,2.63,1.02,4.73,54.41,True,True,True,False,False,41.88
+F235,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.99,1.17,2.96,4.34,3.3,1.0,3.59,52.2,True,True,True,True,True,36.25
+F236,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.89,1.0,2.81,3.79,2.92,2.54,3.59,54.19,False,True,False,True,True,36.16
+F237,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.57,1.9,3.32,2.98,2.61,2.32,4.01,56.36,True,False,False,True,True,35.26
+F238,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.24,1.37,3.08,2.8,2.65,1.92,3.86,49.76,True,False,False,False,True,33.49
+F239,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.6,1.5,3.7,5.0,2.32,2.72,4.3,66.83,False,False,False,True,True,48.52
+F240,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.1,1.82,3.07,2.82,3.18,1.89,3.96,48.19,True,False,False,True,False,39.92
+F241,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.33,1.77,2.85,4.88,2.09,3.0,3.87,64.16,False,False,False,True,False,64.27
+F242,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.57,1.42,3.93,3.69,1.97,1.71,4.32,61.58,True,False,False,True,True,46.6
+F243,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.54,1.07,2.53,3.83,3.15,2.61,4.47,51.92,True,False,False,False,False,40.77
+F244,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.87,1.13,3.44,3.16,2.58,1.53,4.83,55.3,False,False,False,True,False,36.21
+F245,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.51,1.5,3.12,3.86,3.67,2.13,5.0,52.57,True,False,False,True,False,32.86
+F246,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.29,2.47,3.22,2.58,2.44,2.17,4.47,56.28,True,False,False,False,False,35.88
+F247,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.23,1.0,4.14,4.08,3.78,2.22,4.59,53.11,False,False,True,True,True,30.89
+F248,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.0,1.12,3.8,4.08,1.91,1.61,3.84,58.03,False,False,False,True,False,43.35
+F249,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.55,1.82,2.49,3.46,3.82,1.95,3.91,47.55,True,True,True,True,False,34.19
+F250,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.73,1.81,3.02,3.63,2.95,2.62,3.69,56.79,True,True,False,False,False,48.33
+F251,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,1.43,2.24,2.31,3.2,1.84,3.74,45.7,True,False,False,True,True,26.34
+F252,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,1.0,4.01,3.26,3.44,2.86,4.57,56.67,True,False,True,True,True,40.53
+F253,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.79,1.53,2.81,2.66,3.7,2.31,4.77,48.44,True,True,False,True,True,26.77
+F254,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,1.05,3.16,3.68,2.13,2.4,5.0,61.19,False,True,True,False,False,44.6
+F255,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,1.27,3.28,3.34,1.47,1.52,4.68,61.89,False,False,False,False,False,47.67
+F256,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,1.1,4.11,2.65,3.86,1.96,3.69,49.69,False,True,False,False,True,34.79
+F257,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.78,1.38,3.09,3.71,3.44,3.44,4.67,56.81,True,False,False,True,True,34.25
+F258,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.42,1.2,3.85,3.48,3.11,2.85,4.63,56.45,True,False,False,True,True,38.97
+F259,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.67,1.71,4.04,3.8,3.47,2.24,3.86,57.24,True,True,False,True,False,41.05
+F260,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.49,1.3,3.74,2.84,1.7,1.99,4.58,59.2,False,False,False,False,False,46.32
+F261,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.82,1.03,3.45,3.89,3.66,1.72,4.03,51.52,False,True,True,True,True,36.87
+F262,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.58,1.0,3.55,2.95,3.39,1.43,4.22,47.92,True,False,False,True,False,23.14
+F263,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.37,1.4,2.97,4.04,2.78,1.62,4.06,53.61,True,False,False,False,True,44.97
+F264,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.59,1.2,2.32,3.24,2.14,1.16,3.8,50.25,False,False,False,False,False,28.24
+F265,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.4,1.56,3.98,3.1,3.84,1.29,3.58,47.9,False,False,False,False,True,30.51
+F266,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),3.72,1.0,3.49,3.35,2.12,2.24,4.26,53.33,False,False,False,True,False,48.62
+F267,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.21,2.53,3.66,3.87,3.42,3.33,4.6,60.75,False,False,False,False,False,46.83
+F268,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.34,1.44,3.2,4.95,4.59,2.23,4.23,50.58,True,True,True,False,True,28.02
+F269,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.58,1.0,3.89,4.96,3.58,3.08,3.78,59.36,True,True,False,True,False,36.11
+F270,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.07,1.0,3.74,5.0,4.09,1.06,4.91,50.21,True,True,False,True,False,26.67
+F271,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.84,1.0,3.24,4.4,3.01,1.9,4.64,57.1,False,False,False,True,False,46.55
+F272,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.64,1.31,2.55,2.93,2.77,2.34,4.92,51.81,True,False,True,False,False,35.38
+F273,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,1.65,2.57,3.71,4.32,2.09,4.42,48.89,False,True,False,True,True,36.88
+F274,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.74,1.28,3.71,3.56,3.01,2.59,3.84,56.99,True,True,True,True,True,44.25
+F275,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.07,1.0,3.32,4.69,2.85,2.98,4.38,57.81,True,False,False,True,False,42.62
+F276,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.67,1.54,3.29,3.88,2.79,1.81,5.0,57.84,False,False,False,False,True,50.98
+F277,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),3.92,1.77,3.22,3.45,3.33,2.55,3.79,50.71,True,False,False,True,True,45.73
+F278,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.89,1.0,3.74,4.2,3.58,2.67,4.38,57.23,True,False,True,True,False,42.27
+F279,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.82,1.0,3.85,5.0,3.06,2.16,4.35,61.58,True,False,True,True,False,49.62
+F280,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,2.12,3.71,3.34,4.99,1.94,3.91,49.18,True,True,True,True,False,36.2
+F281,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.63,1.72,2.25,4.63,3.63,2.18,4.52,53.35,True,True,True,True,False,28.0
+F282,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.94,1.88,2.91,3.84,2.79,2.4,3.89,58.98,False,False,False,False,False,39.89
+F283,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,1.65,3.91,4.43,2.48,2.12,4.11,65.5,False,False,False,False,False,44.95
+F284,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,1.36,2.95,3.41,1.82,3.05,4.0,62.48,False,False,False,False,False,54.71
+F285,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.85,1.54,3.24,4.94,2.27,2.2,4.21,65.11,True,True,True,False,False,57.76
+F286,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.16,1.0,3.5,3.94,3.42,2.54,3.23,50.74,True,True,True,True,False,37.14
+F287,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.35,1.62,3.5,3.29,2.16,2.36,3.59,57.88,False,False,False,True,False,33.42
+F288,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.07,1.91,2.85,3.11,2.87,1.56,3.59,48.9,True,True,False,True,True,33.68
+F289,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.53,1.64,3.3,3.41,3.38,2.6,4.13,53.73,True,True,True,True,True,40.25
+F290,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.71,1.42,3.89,4.25,3.73,2.14,4.89,57.21,True,True,True,True,True,44.62
+F291,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,1.25,3.45,3.29,2.61,3.13,3.86,59.56,True,True,False,False,False,61.26
+F292,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.45,1.0,4.03,3.09,4.04,2.03,3.88,47.43,True,False,False,True,False,28.79
+F293,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.09,1.56,2.15,3.29,3.61,2.38,4.5,45.23,True,False,True,False,True,34.63
+F294,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.42,1.0,3.69,3.98,3.87,1.64,3.75,49.05,True,True,False,True,True,27.54
+F295,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),5.0,2.13,2.55,3.37,3.03,3.27,3.95,58.15,True,False,False,False,False,41.01
+F296,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),3.94,1.0,3.99,3.57,2.74,1.75,4.09,52.59,False,False,False,True,True,39.43
+F297,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.76,1.51,3.19,3.23,2.8,2.89,3.83,56.55,False,False,False,True,False,48.69
+F298,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.57,1.32,3.17,3.42,3.68,2.34,4.32,50.36,True,False,True,False,True,42.44
+F299,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.71,1.63,3.3,3.38,2.86,1.37,4.16,54.04,True,False,True,True,False,56.26
+F300,critical_infrastructure,Critical Infrastructure (Substation / Warehouse),4.95,1.08,3.81,3.08,1.92,1.99,4.25,60.33,True,True,False,True,False,39.36
