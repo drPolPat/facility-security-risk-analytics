@@ -5,7 +5,7 @@ risk** across facility types, using a weighted multi-factor risk model.
 Built as a portfolio project pairing domain expertise from physical security
 / safety risk assessment with data analytics and applied ML.
 
-**Live:** [facility-security-risk-analytics.vercel.app](https://facility-security-risk-analytics.vercel.app) · API: [facility-security-risk-analytics-production.up.railway.app](https://facility-security-risk-analytics-production.up.railway.app) <!-- TODO: replace with the real URLs once deployed -->
+**Live:** [facility-security-risk-analytics.vercel.app](https://facility-security-risk-analytics.vercel.app) · API: [facility-security-risk-analytics-production.up.railway.app](https://facility-security-risk-analytics-production.up.railway.app)
 
 See [`DEPLOY.md`](DEPLOY.md) for the deployment setup (Railway + Vercel).
 
@@ -127,4 +127,7 @@ behind a single number.
       delta, a secondary Ridge-vs-GBM model comparison panel, precomputed
       SHAP feature importance), and an archetype comparison view. Verified
       end-to-end against the local backend in-browser.
-- [ ] Deploy: FastAPI on Railway, React on Vercel.
+- [x] Deploy: FastAPI on Railway, React on Vercel. Verified end-to-end on
+      the live site (facility list, what-if recalculation, model comparison,
+      SHAP panel, archetype comparison all confirmed working against the
+      deployed backend).
