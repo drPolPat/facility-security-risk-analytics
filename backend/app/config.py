@@ -5,6 +5,7 @@ from __future__ import annotations
 from functools import lru_cache
 from pathlib import Path
 
+from pydantic import field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 # Repo root is one level above backend/; the shared .env lives there.
@@ -24,6 +25,15 @@ class Settings(BaseSettings):
     # matches.
     cors_origins: str = "http://localhost:5173,http://127.0.0.1:5173"
     cors_origin_regex: str | None = None
+
+    @field_validator("cors_origins", "cors_origin_regex")
+    @classmethod
+    def _strip_whitespace(cls, value: str | None) -> str | None:
+        # A stray leading/trailing tab or newline from a dashboard paste turns
+        # this into a pattern that can never match a real Origin header, and
+        # fails completely silently (no error -- CORS just never matches).
+        # Learned the hard way deploying this to Railway.
+        return value.strip() if value is not None else value
 
     @property
     def cors_origins_list(self) -> list[str]:
