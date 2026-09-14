@@ -25,3 +25,14 @@ app.include_router(api_router)
 @app.get("/api/health")
 def health() -> dict[str, str]:
     return {"status": "ok"}
+
+
+@app.get("/api/debug/cors")
+def debug_cors() -> dict[str, str | None]:
+    # TEMPORARY: diagnosing a CORS mismatch against a Railway env var whose
+    # value looks correct when pasted but doesn't match at runtime. Remove
+    # once resolved.
+    return {
+        "cors_origins_repr": repr(settings.cors_origins),
+        "cors_origin_regex_repr": repr(settings.cors_origin_regex),
+    }
