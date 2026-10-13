@@ -111,6 +111,20 @@ to 300 rows. Rather than picking a "winner," the API exposes both predictions si
 accuracy-vs-interaction-capture tradeoff is a visible part of the dashboard, not a decision hidden
 behind a single number.
 
+## Evaluation limitations
+
+- **Single train/test split, no cross-validation.** Both models are evaluated on one random
+  `train_test_split(test_size=0.25, random_state=42)` (225 train / 75 test facilities) in
+  `notebooks/01-eda-risk-scoring.ipynb`, Section 9. The R² / MAE above (Ridge 0.559 / 5.12,
+  GBM 0.461 / 5.70, from the notebook's saved output) come from that one split. No repeated
+  splits or seeds, and no confidence intervals. Hyperparameters are fixed, not tuned.
+- **SHAP is computed on the full dataset (train + test).** Section 10 runs
+  `TreeExplainer(gbm).shap_values(X)` on all 300 rows, and `models/shap_summary.json`
+  (`n_samples: 300`) stores that result. It describes what the fitted model relies on, not a
+  held-out-only attribution.
+- Everything above is on synthetic data with a known generating formula (see
+  [`data/README.md`](data/README.md)).
+
 ## Roadmap
 
 - [x] Synthetic dataset generator (4 archetypes, 7 weighted factors, 5
